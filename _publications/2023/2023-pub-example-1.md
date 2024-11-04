@@ -1,17 +1,17 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "STREAM-Sat: A Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset"
+date:           2024.12
 selected:       true
-pub:            "Nature Communications"
-pub_date:       "2023"
-abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+pub:            "Water Resources Research"
+pub_date:       "2024"
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Kaidi Peng*
+- Daniel Wright
+- Yagmur Derin
+- Samantha Hartke
+- Zhe Li
+- Jackson Tan
 links:
-  Paper: https://www.cell.com
+  Paper: https://essopenarchive.org/doi/full/10.22541/essoar.170158339.92690157
 ---
