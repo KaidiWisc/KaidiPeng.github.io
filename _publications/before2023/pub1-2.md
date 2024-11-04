@@ -1,6 +1,6 @@
 ---
 title:          "Geographically weighted spatial unmixing for spatiotemporal fusion"
-date:           2021.10
+date:           2021-04-05 00:01:00 +0800
 selected:       false
 pub:            "IEEE Transactions on Geoscience and Remote Sensing"
 pub_date:       "2021"
