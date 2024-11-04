@@ -4,7 +4,7 @@ width: 6
 date: 2024-11-05 00:01:00 +0800
 ---
 <div>
-  <img data-src="/assets/images/proj3.png" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+  <img data-src="/assets/images/proj33.png" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <div class="card-body">
     <h5 class="card-title">Data-Driving Hydrologic Modeling Uncertainty Quantification</h5>
     <p class="card-text">
