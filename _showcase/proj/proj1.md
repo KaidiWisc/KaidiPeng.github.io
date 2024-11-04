@@ -4,12 +4,12 @@ width: 6
 date: 2024-11-04 00:01:00 +0800
 ---
 <div>
-  <img data-src="https://api.star-history.com/svg?repos=luost26/academic-homepage&type=Date" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+  <img data-src="/assets/images/proj1.png" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <div class="card-body">
-    <h5 class="card-title">GitHub Star History</h5>
+    <h5 class="card-title">Satellite Precipitation error modeling</h5>
     <p class="card-text">
-      This image shows the star history of the GitHub repository of this website.
+      We created a Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset STREAM-Sat
     </p>
-    <p class="card-text"><small><a href="https://github.com/luost26/academic-homepage" target="_blank">Give a star!</a></small></p>
+    <p class="card-text"><small><a href="https://github.com/luost26/academic-homepage" target="_blank">Click to learn more!</a></small></p>
   </div>
 </div>
