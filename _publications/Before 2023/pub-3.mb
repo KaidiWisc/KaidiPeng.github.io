@@ -1,9 +1,9 @@
 ---
-title:          "STREAM-Sat: A Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset"
-date:           2024.12
+title:          "Blocks-removed spatial unmixing for downscaling MODIS images"
+date:           2021.4
 selected:       true
-pub:            "Water Resources Research"
-pub_date:       "2024"
+pub:            "Remote Sensing of Environment"
+pub_date:       "2021"
 cover:          /assets/images/covers/cover1.jpg
 authors:
 - Kaidi Peng*
