@@ -25,7 +25,7 @@ short_bio: >-
     I am a PhD student in Civil & Environmental Engineering, at the University of Wisconsin–Madison. My research interest lies in satellite precipitation uncertainty quantification and associated effects in hydrologic predictions. I am also interested in hydrologic modeling uncertainty, and trying to convert the uncertainty into decision-making information. I am looking for approaches to leverage satellite products and physical/statistic models to solve real-world problems, especially in gauge-limited areas.
   </p>
   <p>
-    I am a Future Investigator in NASA Earth and Space Science and Technology (<a href="https://science.nasa.gov/earth-science/early-career-opportunities" target="_blank">FINESST</a>). I am advised by Prof. Daniel Wright of <a href="https://her.cee.wisc.edu/" target="_blank"HER Research Group</a>.
+    I am a Future Investigator in NASA Earth and Space Science and Technology (<a href="https://science.nasa.gov/earth-science/early-career-opportunities" target="_blank">FINESST</a>). I am advised by Prof. Daniel Wright of <a href="https://her.cee.wisc.edu/" target="_blank">HER Research Group</a>.
   </p>
 
 portrait_url: /assets/images/pkd.png
@@ -45,10 +45,27 @@ education:
   date: Sep. 2018 - Jul. 2022
 
 experience:
-- name: Peking University
-  # logo: /assets/images/badges/PKU_red.png
-  position: Research Intern
-  date: Sep. 2019 - Jul. 2021
+- name: UW Madison
+  logo: /assets/images/badges/PKU_red.png
+  position: >-
+    Graduate Research Assistant <br/>
+    Satellite-based precipitation products uncertainty quantification and application
+  date: Fall 2022 - Present
+
+- name: Tongji University
+  logo: /assets/images/badges/PKU_red.png
+  position: >-
+    Undergraduate Researcher <br/>
+    Satellite-derived bathymetry using the ICESat-2 lidar and Sentinel-2 MSI images
+  date: Spring 2021 - Summer 2022
+
+- name: Tongji University
+  logo: /assets/images/badges/PKU_red.png
+  position: >-
+    Undergraduate Researcher <br/>
+    Reconstruction of remote sensing images with fine spatiotemporal resolution for landcover & land change monitoring
+  date: Fall 2019 - Summer 2021
+
 
 awards:
 - name: NASA FINESST Award
