@@ -4,6 +4,8 @@ date:           2021-02-05 00:01:00 +0800
 selected:       true
 pub:            "Remote Sensing of Environment"
 pub_date:       "2021"
+abstract: >-
+  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
 cover:          /assets/images/covers/cover1.jpg
 authors:
 - Qunming Wang
