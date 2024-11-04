@@ -1,6 +1,6 @@
 ---
 title:          "Blocks-removed spatial unmixing for downscaling MODIS images"
-date:           2021.4
+date:           2021-02-05 00:01:00 +0800
 selected:       true
 pub:            "Remote Sensing of Environment"
 pub_date:       "2021"
