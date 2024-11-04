@@ -1,6 +1,6 @@
 ---
 title:          "STREAM-Sat: A Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset"
-date:           2024.12
+date:           2024-12-01 00:01:00 +0800
 selected:       true
 pub:            "Water Resources Research"
 pub_date:       "2024"
