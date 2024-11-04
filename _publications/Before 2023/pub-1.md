@@ -1,17 +1,16 @@
 ---
-title:          "STREAM-Sat: A Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset"
-date:           2024.12
+title:          "A Physics-Assisted Convolutional Neural Network for Bathymetric Mapping Using ICESat-2 and Sentinel-2 Data"
+date:           2022.10
 selected:       true
-pub:            "Water Resources Research"
-pub_date:       "2024"
+pub:            "IEEE Transactions on Geoscience and Remote Sensing"
+pub_date:       "2022"
 cover:          /assets/images/covers/cover1.jpg
 authors:
 - Kaidi Peng*
-- Daniel Wright
-- Yagmur Derin
-- Samantha Hartke
-- Zhe Li
-- Jackson Tan
+- Huan Xie
+- Qi Xu
+- Peiqi Huang
+- Ziyi Liu
 links:
-  Paper: https://essopenarchive.org/doi/full/10.22541/essoar.170158339.92690157
+  Paper: https://ieeexplore.ieee.org/abstract/document/9915464
 ---
