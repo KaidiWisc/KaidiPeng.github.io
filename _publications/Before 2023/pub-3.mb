@@ -6,12 +6,11 @@ pub:            "Remote Sensing of Environment"
 pub_date:       "2021"
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Kaidi Peng*
-- Daniel Wright
-- Yagmur Derin
-- Samantha Hartke
-- Zhe Li
-- Jackson Tan
+- Qunming Wang
+- Kaidi Peng
+- Yijie Tang
+- Xiaohua Tong
+- Peter M Atkinson
 links:
-  Paper: https://essopenarchive.org/doi/full/10.22541/essoar.170158339.92690157
+  Paper: https://www.sciencedirect.com/science/article/abs/pii/S0034425721000432
 ---
