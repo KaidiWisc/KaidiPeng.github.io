@@ -28,7 +28,7 @@ navbar_title: Home
 {% endif %}
 
 
-{% assign cards_by_group = site.showcase | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
+{% assign cards_by_group = site.photolist | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
 
 {% for group in cards_by_group %}
 <h1>{{ group.name }}</h1>
