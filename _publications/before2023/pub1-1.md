@@ -1,6 +1,6 @@
 ---
 title:          "A Physics-Assisted Convolutional Neural Network for Bathymetric Mapping Using ICESat-2 and Sentinel-2 Data"
-date:           2022.10
+date:           2022-10-01 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Geoscience and Remote Sensing"
 pub_date:       "2022"
