@@ -5,13 +5,10 @@ date: 2021-09-12 00:01:00 +0800
 height: 320px
 images:
 - src: assets/images/phd.me1.png
-  title: Photo 1
-  desc: Description 1.
-  link: https://picsum.photos/
-- src: https://picsum.photos/seed/second22/800/800
-  title: Photo 2
-  desc: Description 2
-- src: https://picsum.photos/seed/third33/800/800
+- src: assets/images/phd.me.2.png
+- src: assets/images/phd.m34.png
+- src: assets/images/conf.me.1.png
+  desc: Kaidi at AGU2023
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
