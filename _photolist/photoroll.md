@@ -9,6 +9,11 @@ images:
 - src: assets/images/phd.m34.png
 - src: assets/images/conf.me.1.png
   desc: Kaidi at AGU2023
+- src: assets/images/phd.5.png
+- src: assets/images/phd.6.png
+- src: assets/images/phd.7.png
+- src: assets/images/phd7.png
+- src: assets/images/phd8.png
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
