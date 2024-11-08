@@ -6,7 +6,7 @@ pub:            "Water Resources Research"
 pub_date:       "2024"
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Kaidi Peng*
+- Kaidi Peng
 - Daniel Wright
 - Yagmur Derin
 - Samantha Hartke
