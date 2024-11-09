@@ -10,6 +10,6 @@ date: 2024-11-04 00:01:00 +0800
     <p class="card-text">
       We created a Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset STREAM-Sat
     </p>
-    <p class="card-text"><small><a href="https://github.com/luost26/academic-homepage" target="_blank">Click to learn more!</a></small></p>
+    <p class="card-text"><small><a href="https://kaidiwisc.github.io/KaidiPeng.github.io/showcase" target="_blank">Click to learn more!</a></small></p>
   </div>
 </div>
