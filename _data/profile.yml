@@ -37,33 +37,33 @@ portrait_caption: >-
 
 education:
 - name: University of Wisconsin - Madison
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/uw.png
   position: >- 
     Department of Civil and Environmental Engineering <br/>
     Ph.D. Student
   date: Sep. 2022 - Dec. 2027
 - name: Tongji University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/TJ.png
   position: B.S. in Geomatics Engineering
   date: Sep. 2018 - Jul. 2022
 
 experience:
 - name: UW-Madison
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/uw.png
   position: >-
     Graduate Research Assistant <br/>
     Satellite-based precipitation products uncertainty quantification and application
   date: Fall 2022 - Present
 
 - name: Tongji University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/TJ.png
   position: >-
     Undergraduate Researcher <br/>
     Satellite-derived bathymetry using the ICESat-2 lidar and Sentinel-2 MSI images
   date: Spring 2021 - Summer 2022
 
 - name: Tongji University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/TJ.png
   position: >-
     Undergraduate Researcher <br/>
     Reconstruction of remote sensing images with fine spatiotemporal resolution for landcover & land change monitoring
