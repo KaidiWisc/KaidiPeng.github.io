@@ -18,5 +18,5 @@ images:
 - src: assets/images/phd8.png
 - src: assets/images/phd.8.png
   desc: Gathering in Denver
-
+---
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
