@@ -13,5 +13,5 @@ authors:
 - Zhe Li
 - Jackson Tan
 links:
-  Paper: https://essopenarchive.org/doi/full/10.22541/essoar.170158339.92690157
+  Paper: https://doi.org/10.1029/2023WR036756
 ---
