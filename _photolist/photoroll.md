@@ -13,6 +13,7 @@ images:
 - src: assets/images/phd.6.png
 - src: assets/images/phd.7.png
 - src: assets/images/phd7.png
+  desc: Kaidi at AGU2024
 - src: assets/images/phd8.png
 ---
 
