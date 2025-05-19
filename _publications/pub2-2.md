@@ -1,6 +1,6 @@
 ---
 title:          "Advancing Ensemble Streamflow Prediction Through Satellite-based Precipitation Product and Model Parameter Uncertainty Quantification"
-date:           2024-12-01 00:01:00 +0800
+date:           2025-12-01 00:01:00 +0800
 selected:       true
 pub:            "Journal of Advances in Modeling Earth Systems"
 pub_date:       "2025"
@@ -16,6 +16,6 @@ authors:
 - Zhe Li
 - Jackson Tan
 links:
-  Paper: 10.22541/essoar.173724212.22901792/v1
+  Paper: https://doi.org/10.22541/essoar.173724212.22901792/v1
 
 ---
