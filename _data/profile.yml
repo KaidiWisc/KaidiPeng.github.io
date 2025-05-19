@@ -29,7 +29,7 @@ short_bio: >-
   </p>
   <p>
     I am a Future Investigator in NASA Earth and Space Science and Technology (<a href="https://science.nasa.gov/earth-science/early-career-opportunities" target="_blank">FINESST</a>) 
-    and a recipient of the 2024 <a href="https://www.agu.org/honors/horton-grant" target="_blank">AGU Horton Research Grant</a>
+    and a recipient of the 2024 <a href="https://www.agu.org/honors/horton-grant" target="_blank">AGU Horton Research Grant</a> .
     I am advised by Prof. Daniel Wright of <a href="https://her.cee.wisc.edu/" target="_blank">HER Research Group</a>.
   </p>
 
@@ -50,12 +50,18 @@ education:
   date: Sep. 2018 - Jul. 2022
 
 experience:
-- name: UW-Madison
+- name: University of Wisconsin - Madison
   logo: /assets/images/badges/uw.png
   position: >-
     Graduate Research Assistant <br/>
     Satellite-based precipitation products uncertainty quantification and application
   date: Fall 2022 - Present
+  
+- name: Fujitsu
+  logo: /assets/images/badges/uw.png
+  position: >-
+    Research Internship <br/>
+  date: Summer 2025
 
 - name: Tongji University
   logo: /assets/images/badges/TJ.png
