@@ -6,7 +6,7 @@ pub:            "IEEE Transactions on Geoscience and Remote Sensing"
 pub_date:       "2022"
 # cover:          /assets/images/covers/cover1.jpg
 authors:
-- Kaidi Peng*
+- Kaidi Peng
 - Huan Xie
 - Qi Xu
 - Peiqi Huang
