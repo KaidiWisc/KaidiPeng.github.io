@@ -2,7 +2,7 @@
 title:          "Advancing Ensemble Streamflow Prediction Through Satellite-based Precipitation Product and Model Parameter Uncertainty Quantification"
 date:           2025-12-01 00:01:00 +0800
 selected:       true
-pub:            "Journal of Advances in Modeling Earth Systems"
+pub:            "Journal of Advances in Modeling Earth Systems (under review)"
 pub_date:       "2025"
 cover:          /assets/images/covers/cover1.jpg
 authors:
