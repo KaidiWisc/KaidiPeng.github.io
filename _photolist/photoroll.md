@@ -12,9 +12,11 @@ images:
 - src: assets/images/phd.5.png
 - src: assets/images/phd.6.png
 - src: assets/images/phd.7.png
+  desc: HER members
 - src: assets/images/phd7.png
   desc: Kaidi at AGU2024
 - src: assets/images/phd8.png
----
+- src: assets/images/phd.8.png
+  desc: Gathering in Denver
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
