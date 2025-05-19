@@ -6,7 +6,6 @@ pub:            "Hydrology"
 pub_date:       "2025"
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Kaidi Peng
 - Marleine Bodjrènou
 - Kaidi Peng
 - Dognon Jules Afféwé
