@@ -1,1 +1,4 @@
-Here is my interview with AGU precipitation technical committee https://connect.agu.org/hydrology/about/tc-committees/pretech/folks#Peng
+---
+title: Here is my interview with AGU precipitation technical committee <a href="https://connect.agu.org/hydrology/about/tc-committees/pretech/folks#Peng" target="_blank">[click]</a> 
+date: 2025-07-12 00:01:00 +0800
+---
