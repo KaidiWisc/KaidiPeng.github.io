@@ -6,7 +6,7 @@ date: 2024-11-05 00:01:00 +0800
 <div>
   <img data-src="{{ 'assets/images/proj22.png' | relative_url }}" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <div class="card-body">
-    <h5 class="card-title">Hydrologic Modeling Uncertainty Quantification</h5>
+    <h5 class="card-title">Uncertainty Quantification for Physics-based Hydrologic Modeling</h5>
     <p class="card-text">
       Satellite precipitation uncertainty quantification greatly improves the reliability and accuracy of ensemble streamflow predictions. Hydrologic model parameter uncertainty is quantified simultaneously.
     </p>
