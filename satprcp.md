@@ -6,29 +6,29 @@ show: true
 date: 2024-11-04 00:01:00 +0800
 ---
 
-# Satellite Precipitation Error Modeling
+# Satellite-based Precipitation Error Modeling
 
 ## Overview
-The **STREAM-Sat** (Satellite-based TRopical and Extra-tropical Analysis and Monitoring of Precipitation) dataset represents a groundbreaking advancement in precipitation measurement. As the first near-real-time, quasi-global, satellite-only ensemble precipitation dataset, STREAM-Sat addresses critical gaps in regions lacking ground-based precipitation measurements. This innovative dataset leverages advanced satellite remote sensing techniques to provide high-resolution, reliable precipitation estimates across diverse climates and terrains.
-
-## Key Features
-- **Near-Real-Time Data**: STREAM-Sat delivers precipitation estimates with minimal latency, enabling timely applications in weather forecasting, disaster management, and climate monitoring.
-- **Quasi-Global Coverage**: Covers regions where traditional ground-based gauges are sparse or absent, including remote areas, oceans, and developing regions.
-- **Ensemble-Based Approach**: Incorporates multiple satellite data sources to improve accuracy and quantify uncertainty, providing a robust dataset for scientific and operational use.
-- **High Resolution**: Offers fine spatial and temporal resolution to capture localized precipitation events, such as tropical storms and monsoons.
-
-## Methodology
-The STREAM-Sat dataset is built by integrating data from multiple satellite platforms, including passive microwave and infrared sensors. Advanced error modeling techniques are applied to correct biases and improve the reliability of precipitation estimates. The ensemble approach combines outputs from various algorithms to produce a comprehensive dataset that accounts for uncertainties inherent in satellite-based measurements.
-
-## Applications
-- **Weather Forecasting**: Enhances the accuracy of short-term precipitation forecasts in data-scarce regions.
-- **Disaster Management**: Supports early warning systems for floods, landslides, and other precipitation-related hazards.
-- **Climate Research**: Provides valuable data for studying precipitation patterns and trends in remote and under-monitored regions.
-- **Agriculture and Water Resource Management**: Assists in planning and managing water resources in areas with limited ground-based observations.
-
-## Learn More
-For technical details, access the dataset, or explore related publications, please visit the [STREAM-Sat project page](https://kaidiwisc.github.io/KaidiPeng.github.io/stream-sat) or contact the research team at [your-email@example.com](mailto:your-email@example.com).
+ Satellite‐based precipitation observations can provide near‐global coverage with high
+ spatiotemporal resolution in near‐realtime. Their utility, however, is hindered by oftentimes large uncertainties
+ that vary substantially in space and time. This problem is particularly pronounced in regions which lack dense
+ ground‐based measurements to quantify or reduce such uncertainty. Since this uncertainty is, by definition, a
+ random process, probabilistic representations are needed to advance their operational application. Ensemble
+ methods, in which uncertainty is depicted via multiple realizations of precipitation fields, have been widely used
+ in numerical weather and climate prediction, but rarely in satellite contexts. Creating such an ensemble dataset is
+ challenging due to the complexity of observational uncertainties and the scarcity of “ground truth” to
+ characterize them. In this study, we attempt to resolve these two challenges and propose the first quasi‐global
+ (covering all continental land masses within 50°N‐50°S) satellite‐only ensemble precipitation dataset
+ (STREAM‐Sat), derived entirely from NASA's Integrated Multi‐SatellitE Retrievals for Global Precipitation
+ Measurement (IMERG) and GPM's radar‐radiometer combined precipitation product (2B‐CMB). No ground
+based measurements are used to generate STREAM‐Sat, and it is suitable for near‐realtime use without
+ extending the 4‐hr latency and 0.1°, 30‐min spatiotemporal resolution of IMERG Early. We compare
+ STREAM‐Sat against several precipitation datasets, including global satellite‐based, rain gage‐based,
+ atmospheric reanalysis, and merged products. While our proposed approach faces some limitations and is not
+ universally superior to the comparison datasets in all respects, it does hold relative advantages due to its unique
+ combination of accuracy, resolution, rainfall spatiotemporal structure, latency, and utility in hydrologic and
+ hazard applications
 
 <div class="text-center mt-4">
-  <img data-src="{{ 'assets/images/stream_sat_example.png' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" alt="STREAM-Sat Precipitation Map">
+  <img data-src="{{ 'assets/images/proj11_2.png' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" alt="STREAM-Sat Precipitation Map">
 </div>
