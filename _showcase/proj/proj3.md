@@ -10,6 +10,6 @@ date: 2024-11-05 00:01:00 +0800
     <p class="card-text">
       Satellite precipitation, neural network weight, neural network structure and calibration target uncertainties are quantified to solve the over-confident issue in date-learning based ensemble streamflow prediction.
     </p>
-    <p class="card-text"><small><a href="https://kaidiwisc.github.io/KaidiPeng.github.io/showcase" target="_blank">Click to learn more!</a></small></p>
+    <p class="card-text"><small><a href="https://kaidiwisc.github.io/KaidiPeng.github.io/showcase/proj3" target="_blank">Click to learn more!</a></small></p>
   </div>
 </div>
