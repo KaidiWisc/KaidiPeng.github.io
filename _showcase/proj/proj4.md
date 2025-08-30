@@ -6,7 +6,7 @@ date: 2024-11-05 00:01:00 +0800
 <div>
   <img data-src="{{ 'assets/images/proj44.png' | relative_url }}" class="lazy w-100 rounded-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <div class="card-body">
-    <h5 class="card-title">Streamflow Prediction in Ungauged Regions</h5>
+    <h5 class="card-title">Streamflow Prediction in Ungauged Regions with Uncertainty Quantification</h5>
     <p class="card-text">
       Satellite-based ensemble streamflow prediction in ungauged regions is realized by leveraging satellite observations, hydrologic modeling, and uncertainty quantification methods.
     </p>
