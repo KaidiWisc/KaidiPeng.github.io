@@ -10,6 +10,6 @@ date: 2024-11-05 00:01:00 +0800
     <p class="card-text">
       Satellite precipitation uncertainty quantification greatly improves the reliability and accuracy of ensemble streamflow predictions. Hydrologic model parameter uncertainty is quantified simultaneously.
     </p>
-    <p class="card-text"><small><a href="https://kaidiwisc.github.io/KaidiPeng.github.io/showcase" target="_blank">Click to learn more!</a></small></p>
+    <p class="card-text"><small><a href="https://kaidiwisc.github.io/KaidiPeng.github.io/showcase/proj2" target="_blank">Click to learn more!</a></small></p>
   </div>
 </div>
