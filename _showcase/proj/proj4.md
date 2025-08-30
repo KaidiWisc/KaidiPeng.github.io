@@ -10,6 +10,6 @@ date: 2024-11-05 00:01:00 +0800
     <p class="card-text">
       Satellite-based ensemble streamflow prediction in ungauged regions is realized by leveraging satellite observations, hydrologic modeling, and uncertainty quantification methods.
     </p>
-    <p class="card-text"><small><a href="https://kaidiwisc.github.io/KaidiPeng.github.io/showcase" target="_blank">Click to learn more!</a></small></p>
+    <p class="card-text"><small><a href="https://kaidiwisc.github.io/KaidiPeng.github.io/showcase/proj4" target="_blank">Click to learn more!</a></small></p>
   </div>
 </div>
