@@ -8,7 +8,7 @@ date: 2024-11-09 00:01:00 +0800
   <div class="card-body">
     <h5 class="card-title">Diffusion Model-based Pecipitation Downscaling</h5>
     <p class="card-text">
-      We generate satellite-based ensemble precipitation by residual diffusion model. 
+      We generate satellite-based ensemble precipitation using a residual diffusion model. 
     </p>
     <p class="card-text"><small><a href="https://kaidiwisc.github.io/KaidiPeng.github.io/showcase/proj5" target="_blank">Click to learn more!</a></small></p>
   </div>
