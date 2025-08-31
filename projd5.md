@@ -12,9 +12,7 @@ Deep learning models have been explored for precipitation error modeling, typica
 
 
 <div class="text-center mt-4">
-  <video data-src="{{ 'assets/images/proj55_2.mp4' | relative_url }}" class="lazy w-100 rounded" poster="{{ '/assets/images/empty_300x200.png' | relative_url }}" alt="Hydrologic Modeling Uncertainty Quantification" controls>
-    <source src="{{ 'assets/images/proj55_2.mp4' | relative_url }}" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <video data-src="{{ 'assets/images/proj55_2.mp4' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" alt="Diffusion">
 </div>
+
 
