@@ -12,7 +12,7 @@ Deep learning models have been explored for precipitation error modeling, typica
 
 
 <div class="text-center mt-4">
-  <video data-src="{{ 'assets/images/proj55_2.mp4' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" alt="Diffusion">
+  <img data-src="{{ 'assets/images/proj55_2.gif' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" alt="Diffusion">
 </div>
 
 
